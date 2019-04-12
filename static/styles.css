@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Raleway", sans-serif;
+}
+html {
+	background: black;
+}
